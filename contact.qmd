@@ -5,11 +5,13 @@ title: "Contact"
 **Frederic Guichard**  
 Professor  
 [Department of Biology](http://biology.mcgill.ca/index.html)  
+
+Director
+Quantitative Life Sciences ([QLS](https://www.mcgill.ca/qls))
+
 McGill University  
 1205 Docteur Penfield Avenue  
 Montreal, Quebec, H3A 1B1  
-
-Co-Director, [CAMBAM](http://www.crm.umontreal.ca/labo/cambam/) — Center for Applied Mathematics in Bioscience and Medicine
 
 **Office:** Stewart Biology Building, room N8/14  
 **Phone:** 514-398-6464  
