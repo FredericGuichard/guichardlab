@@ -1,0 +1,21 @@
+---
+title: "Climate Change"
+---
+
+## Tracking Unstable States: Ecosystem Dynamics in a Changing World
+
+Our research investigates how ecosystems respond to continuously changing environmental conditions — not just to static stressors. A key focus is the concept of *rate-dependent dynamics*: how the speed of environmental change determines whether ecosystems can track shifting equilibria or instead cross tipping points into alternative states.
+
+We combine theory (dynamical systems, bifurcation analysis) with metacommunity and meta-ecosystem models to study:
+
+- Early warning indicators of catastrophic transitions driven by explicit rates of environmental change
+- The persistence and extinction dynamics of predator-prey metacommunities under changing environments
+- Seasonal food webs and migrations under climate change, including indirect species interactions in Arctic tundra systems
+- The resilience of community dynamics with seasonal migrations
+
+### Key Papers
+
+- Arumugam, R., Guichard, F., Lutscher, F. (2024) Early warning indicators capture catastrophic transitions driven by explicit rates of environmental change. *Ecology*. [DOI](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/ecy.4240)
+- Arumugam, R., Lutscher, F., Guichard, F. (2021) Tracking unstable states: Ecosystem dynamics in a changing world. *Oikos* 130: 525–540. [DOI](https://doi.org/10.1111/oik.08051)
+- Hutchison, C., Gravel, D., Guichard, F. (2024) A hybrid dynamical system approach to predicting the resilience of community dynamics with seasonal migrations under climate change. *Theoretical Ecology*. [DOI](https://doi.org/10.1007/s12080-024-00581-9)
+- Hutchison, C., et al. (2020) Seasonal food webs with migrations. *Philosophical Transactions of the Royal Society A*. [DOI](https://doi.org/10.1098/rsta.2019.0354)

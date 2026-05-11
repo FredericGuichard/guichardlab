@@ -1,0 +1,29 @@
+/* Guichard Lab custom styles */
+
+body {
+  font-family: "Source Sans Pro", sans-serif;
+}
+
+.navbar {
+  background-color: #c8102e; /* McGill red */
+}
+
+.navbar-brand, .navbar .nav-link {
+  color: white !important;
+}
+
+.navbar .nav-link:hover {
+  color: #f0c040 !important;
+}
+
+h1, h2, h3 {
+  color: #2c3e50;
+}
+
+a {
+  color: #c8102e;
+}
+
+a:hover {
+  color: #900c22;
+}

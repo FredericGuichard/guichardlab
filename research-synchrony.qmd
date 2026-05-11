@@ -1,0 +1,25 @@
+---
+title: "Synchrony"
+---
+
+## Synchrony and Spatial Variability
+
+Spatial synchrony — correlated fluctuations in population dynamics across distant locations — has profound consequences for the persistence and stability of ecological systems. We study the mechanisms generating and maintaining synchrony and asynchrony across ecological networks, from marine shores to meta-ecosystems.
+
+Our work spans:
+
+- The role of dispersal, environmental forcing, and trophic interactions in generating synchrony across metacommunities
+- How asynchrony among populations and species buffers communities against extinction (the portfolio effect)
+- Phase dynamics in heterogeneous metacommunities, including amplitude-frequency modulation
+- The maintenance of asynchrony across coupled ecological networks as a stabilizing mechanism
+
+We develop both theoretical models and quantitative methods (see the `synchrony` R package) to characterize spatial variability across scales.
+
+### Key Papers
+
+- Milne, R., Guichard, F. (2021) Coupled phase-amplitude dynamics in heterogeneous metacommunities. *Journal of Theoretical Biology* 523: 110676. [DOI](https://doi.org/10.1016/j.jtbi.2021.110676)
+- Guichard, F., Zhang, Y., Lutscher, F. (2019) The emergence of phase asynchrony and frequency modulation in metacommunities. *Theoretical Ecology* 12: 329. [DOI](https://doi.org/10.1007/s12080-018-0398-8)
+- Gouhier, T.C. and Guichard, F. (2014) Synchrony: quantifying variability in space and time. *Methods in Ecology and Evolution* 5: 524–533.
+- Gouhier, T.C., Guichard, F., Gonzalez, A. (2010) Synchrony and stability of food webs in metacommunities. *The American Naturalist* 175: E16–E34.
+- Gouhier, T.C., Guichard, F., Menge, B.A. (2010) Ecological processes can synchronize marine population dynamics over continental scales. *PNAS* 107: 8281–8286.
+- Wall, E., Guichard, F., Humphries, A.R. (2013) Synchronization in ecological systems by weak dispersal coupling with time delay. *Theoretical Ecology* 6: 405–418.

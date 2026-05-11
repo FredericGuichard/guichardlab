@@ -1,0 +1,21 @@
+---
+title: "Foundation Species"
+---
+
+## Mussel Beds and Seagrass Meadows
+
+Foundation species — such as mussels and seagrasses — are ecosystem engineers that create and modify habitats, driving both community assembly and large-scale ecosystem functions. We study how the geometry, connectivity, and fragmentation of these habitats shape ecological and biogeochemical processes.
+
+Our work on **mussel beds** focuses on how habitat area, perimeter, and fragmentation affect nutrient fluxes (ammonium, oxygen) and community structure. We use experimental mussel transplants and metabolic chambers to quantify fluxes at the whole-ecosystem level.
+
+Our work on **seagrass meadows and detritus** develops theory for the dual role of detritus as both a resource and a habitat, integrating non-trophic processes into meta-ecosystem dynamics.
+
+We develop and test theories of *meta-ecosystem engineers* involving both trophic and non-trophic interactions, asking how the spatial flows and cycling of matter mediated by foundation species scale from local beds to seascape-level functions.
+
+### Key Papers
+
+- Guichard, F., Pichon, B., Gounand, I. (2026) The dual role of detritus as resource and habitat. *Oikos*, in press. [Preprint](https://doi.org/10.22541/au.176296491.12324852/v1)
+- Lauzon, F., et al. (2026) Dynamic response of communities and ecosystem functions to ecosystem engineering and multiple stressors in a marine mussel bed. *Oikos*, in press.
+- Carrier-Belleau, C., et al. (2024) Interacting effects of local and global stressors on mussel beds and ecosystem functioning. *Journal of Experimental Marine Biology and Ecology*. [DOI](https://doi.org/10.1016/j.jembe.2024.152046)
+- Paquette, L., Archambault, P., Guichard, F. (2019) From habitat geometry to ecosystem functions in marine mussel beds. *Marine Ecology Progress Series* 608: 149–163.
+- Largaespada, C., Guichard, F., Archambault, P. (2012) Meta-ecosystem engineering: Nutrient fluxes reveal intra-specific and inter-specific feedbacks in fragmented mussel beds. *Ecology* 93: 324–333.

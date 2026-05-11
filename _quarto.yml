@@ -1,0 +1,38 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Guichard Lab"
+  navbar:
+    left:
+      - href: index.qmd
+        text: About
+      - text: Research
+        menu:
+          - href: research-climate.qmd
+            text: Climate Change
+          - href: research-foundation.qmd
+            text: Foundation Species
+          - href: research-connectivity.qmd
+            text: Marine Connectivity
+          - href: research-metaecosystems.qmd
+            text: Meta-ecosystems
+          - href: research-synchrony.qmd
+            text: Synchrony
+      - href: publications.qmd
+        text: Publications
+      - href: people.qmd
+        text: People
+      - href: news.qmd
+        text: News
+      - href: contact.qmd
+        text: Contact
+  page-footer:
+    center: "© Guichard Lab, McGill University"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false

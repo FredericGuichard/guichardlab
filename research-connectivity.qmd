@@ -1,0 +1,25 @@
+---
+title: "Marine Connectivity"
+---
+
+## Marine Connectivity and Reserve Networks
+
+Larval dispersal connects marine populations across space, determining the persistence, resilience, and recovery potential of marine metapopulations. We study how dispersal traits, oceanographic forcing, and the design of marine protected area (MPA) networks interact to shape metapopulation dynamics under current and future climate conditions.
+
+Key questions include:
+
+- How do dispersal traits interact with dynamic connectivity to affect metapopulation growth and stability?
+- How should MPA networks be designed to account for non-equilibrium metacommunity dynamics and climate change?
+- How does aggregated dispersal affect spatial synchrony, stability, and extinction risk?
+
+We develop spatial models linking larval dispersal behaviour, oceanographic variability, and population dynamics, and apply these to practical MPA design problems.
+
+### Key Papers
+
+- Townsend, D., Gouhier, T., Guichard, F. (2025) Aggregated dispersal reduces spatial synchrony but promotes instability and extinction risk. *Oikos*. [DOI](https://doi.org/10.1111/oik.11032)
+- Bani, R., et al. (2021) Dynamic larval dispersal can mediate the response of marine metapopulations to multiple climate change impacts. *Oikos*. [DOI](https://doi.org/10.1111/oik.07760)
+- Bani, R., et al. (2019) Dispersal traits interact with dynamic connectivity to affect metapopulation growth and stability. *Theoretical Ecology* 12: 111.
+- D'Aloia, C.C., et al. (2019) Coupled Networks of Permanent Protected Areas and Dynamic Conservation Areas for Biodiversity Conservation under Climate Change. *Frontiers in Ecology and Evolution* 7: 27.
+- D'Aloia, C.C., et al. (2017) A multiple-species framework for integrating movement processes across life stages into the design of marine protected areas. *Biological Conservation* 216: 93–100.
+- Gouhier, T.C., Guichard, F., Menge, B.A. (2013) Designing effective marine reserve networks for non-equilibrium metacommunities. *Ecological Applications* 23: 1488–1503.
+- Le Corre, N., Guichard, F., Johnson, L.E. (2015) Patterns and scales of metapopulation connectivity. *Ecology* 96: 2245–2256.

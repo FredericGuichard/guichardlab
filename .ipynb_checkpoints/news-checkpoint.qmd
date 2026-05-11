@@ -1,0 +1,23 @@
+---
+title: "News"
+---
+
+*Updates from the lab will appear here. Check back for new publications, lab member news, and upcoming events.*
+
+---
+
+**2025**
+
+- Brendon McGuinness completed his PhD — congratulations! His paper on resource-use plasticity and microbial community structure was published in *PNAS*.
+- New paper: Townsend, Gouhier & Guichard on aggregated dispersal and spatial synchrony, published in *Oikos*.
+
+**2024**
+
+- New paper: Arumugam, Guichard & Lutscher on early warning indicators of catastrophic transitions, published in *Ecology*.
+- New paper: Hutchison, Gravel & Guichard on resilience of community dynamics with seasonal migrations, published in *Theoretical Ecology*.
+- New paper: Carrier-Belleau et al. on interacting stressors and mussel bed ecosystem functioning, published in *Journal of Experimental Marine Biology and Ecology*.
+
+**2023**
+
+- New paper: Harvey et al. — a general meta-ecosystem model for predicting ecosystem functions at landscape extents, published in *Ecography*.
+- New paper: Peller, Guichard & Altermatt on partial migration and food-web dynamics, published in *Ecology Letters*.

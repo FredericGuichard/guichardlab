@@ -1,0 +1,25 @@
+---
+title: "Meta-ecosystems"
+---
+
+## Meta-ecosystem Theory
+
+Meta-ecosystems extend metacommunity theory by explicitly incorporating the spatial flows of matter and energy — not just organisms — across habitat patches. We develop and test meta-ecosystem theory to understand how nutrient flows, detritus, and consumer movement shape ecosystem functions across landscapes.
+
+Our theoretical work addresses:
+
+- How resource flows between ecosystems can destabilize food chains or generate emergent nutrient co-limitation
+- The role of mobile consumers in recycling nutrients and mediating trophic regulation across space
+- Partial migration and its significance for food-web and ecosystem dynamics
+- The emergence of source-sink dynamics at the meta-ecosystem level
+
+We apply these frameworks to both marine (mussel beds, seagrass, coral reefs) and freshwater systems, and connect theory to empirical data through collaborations across Canada and Europe.
+
+### Key Papers
+
+- Peller, T., Gounand, I., Fortin, M-J., Guichard, F. (2026) Spatially-nested topologies stabilize meta-ecosystems via cross-scale source-sink dynamics. *Ecology*, in press.
+- Peller, T., Guichard, F., Altermatt, F. (2023) The significance of partial migration for food-web and ecosystem dynamics. *Ecology Letters* 26(1): 3–22. [DOI](https://doi.org/10.1111/ele.14143)
+- Peller, T., Marleau, J., Guichard, F. (2022) Traits affecting nutrient recycling by mobile consumers can explain coexistence and spatially-heterogeneous trophic regulation across a meta-ecosystem. *Ecology Letters* 25: 440–452. [DOI](https://doi.org/10.1111/ele.13941)
+- Harvey, E., et al. (2023) A general meta-ecosystem model to predict ecosystem functions at landscape extents. *Ecography*. [DOI](https://onlinelibrary.wiley.com/doi/10.1111/ecog.06790)
+- Marleau, J., Guichard, F., Loreau, M. (2015) Emergence of nutrient colimitation through movement in stoichiometric metaecosystems. *Ecology Letters* 18: 1163–1173.
+- Guichard, F. and Marleau, J. (2021) *Meta-ecosystem Dynamics.* Springer.

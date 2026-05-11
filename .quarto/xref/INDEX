@@ -1,0 +1,35 @@
+{
+  "contact.qmd": {
+    "contact.html": "553637fa"
+  },
+  "research-connectivity.qmd": {
+    "research-connectivity.html": "37120f67"
+  },
+  "news.qmd": {
+    "news.html": "05bfc40d"
+  },
+  "index.qmd": {
+    "index.html": "5ebfc941"
+  },
+  "publications.qmd": {
+    "publications.html": "7992c294"
+  },
+  "about.qmd": {
+    "about.html": "f9588ba8"
+  },
+  "people.qmd": {
+    "people.html": "30d290be"
+  },
+  "research-climate.qmd": {
+    "research-climate.html": "8a529d88"
+  },
+  "research-metaecosystems.qmd": {
+    "research-metaecosystems.html": "ed4d9330"
+  },
+  "research-synchrony.qmd": {
+    "research-synchrony.html": "a5eea732"
+  },
+  "research-foundation.qmd": {
+    "research-foundation.html": "4b5b1289"
+  }
+}
