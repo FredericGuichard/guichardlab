@@ -5,15 +5,14 @@ title: "Contact"
 ::: {style="display: flex; align-items: center; gap: 20px;"}
 ![](images/fg.jpg){style="width: 200px; flex-shrink: 0;"}
 
-::: {
+::: {}
 **Frederic Guichard**  
 Professor  
 [Department of Biology](http://biology.mcgill.ca/index.html)  
 Director  
-[Quantitative Life Sciences (QLS)](https://www.mcgill.ca/qls) 
-}
+[Quantitative Life Sciences (QLS)](https://www.mcgill.ca/qls)  
 
-:::
+:::  
 :::
 
 **McGill University**  
