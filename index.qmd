@@ -6,6 +6,8 @@ page-layout: full
 
 ## Welcome
 
+![](images/freqmod.jpg){style="width: 100%; height: 100px; object-fit: cover;"}
+
 We are a theoretical and marine ecology group in the [Department of Biology](http://biology.mcgill.ca/index.html) at [McGill University](https://www.mcgill.ca/). Our research focuses on the study of ecosystems as complex systems and on the problem of scale. We are interested in understanding:
 
 1. How large-scale patterns of biological diversity develop and are maintained from local interactions among individuals
@@ -19,8 +21,8 @@ We address these questions by combining field experiments in marine systems with
 
 *Affiliated with:*
 
-- [CAMBAM](http://www.crm.umontreal.ca/labo/cambam/) — Center for Applied Mathematics in Bioscience and Medicine
-- [Quantitative Life Sciences](https://www.mcgill.ca/qls/)
-- [CRM](http://www.crm.umontreal.ca/en/) — Centre de Recherches Mathématiques
-- [Québec-Océan](http://www.quebec-ocean.ulaval.ca/)
-- [QCBS](https://qcbs.ca/) — Quebec Centre for Biodiversity Science
+::: {layout-nrow=5}
+[![](images/cambam.jpg){width=200px}](http://www.crm.umontreal.ca/labo/cambam/) [![](images/qls.gif){width=180px}](https://www.mcgill.ca/qls/)  [![](images/crm.png){width=180px}](http://www.crm.umontreal.ca/en/)[![](images/qo.png){width=180px}](http://www.quebec-ocean.ulaval.ca/) [![](images/qcbs.png){width=120px}](https://qcbs.ca/)
+:::
+
+
