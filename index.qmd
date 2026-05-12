@@ -21,8 +21,12 @@ We address these questions by combining field experiments in marine systems with
 
 *Affiliated with:*
 
-::: {layout-nrow=5}
-[![](images/cambam.jpg){width=200px}](http://www.crm.umontreal.ca/labo/cambam/) [![](images/qls.gif){width=180px}](https://www.mcgill.ca/qls/)  [![](images/crm.png){width=180px}](http://www.crm.umontreal.ca/en/)[![](images/qo.png){width=180px}](http://www.quebec-ocean.ulaval.ca/) [![](images/qcbs.png){width=120px}](https://qcbs.ca/)
+::: {style="width: 100%; margin: 0 auto;"}
+::: {style="display: grid; grid-template-rows: repeat(5, auto); gap: 100px; justify-content: center;"}
+[![](images/cambam.jpg){style="width:180px; object-fit:cover;"}](http://www.crm.umontreal.ca/labo/cambam/)
+[![](images/qls.gif){style="width:180px; object-fit:cover;"}](https://www.mcgill.ca/qls/)
+[![](images/crm.png){style="width:180px; object-fit:cover;"}](http://www.crm.umontreal.ca/en/)
+[![](images/qo.png){style="width:150px; object-fit:cover;"}](http://www.quebec-ocean.ulaval.ca/)
+[![](images/qcbs.png){style="width:100px; object-fit:cover;"}](https://qcbs.ca/)
 :::
-
-
+:::

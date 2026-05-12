@@ -27,3 +27,12 @@ a {
 a:hover {
   color: #900c22;
 }
+
+.quarto-layout-panel {
+  gap: 40px;
+}
+
+.quarto-layout-cell {
+  padding: 20px;
+}
+
