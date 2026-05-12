@@ -2,12 +2,19 @@
 title: "Contact"
 ---
 
-**Frederic Guichard** 
+::: {style="display: flex; align-items: center; gap: 20px;"}
+![](images/fg.jpg){style="width: 200px; flex-shrink: 0;"}
 
+::: {
+**Frederic Guichard**  
 Professor  
 [Department of Biology](http://biology.mcgill.ca/index.html)  
 Director  
-Quantitative Life Sciences ([QLS](https://www.mcgill.ca/qls)) 
+[Quantitative Life Sciences (QLS)](https://www.mcgill.ca/qls) 
+}
+
+:::
+:::
 
 McGill University  
 1205 Docteur Penfield Avenue  
@@ -15,7 +22,7 @@ Montreal, Quebec, H3A 1B1
 
 **Office:** Stewart Biology Building, room N8/14  
 **Phone:** 514-398-6464  
-**Email:** frederic.guichard@mcgill.ca  
+**Email:** frederic.guichard@mcgill.ca 
 
 ---
 
