@@ -9,7 +9,7 @@ page-layout: full
 We are a theoretical and marine ecology group in the [Department of Biology](http://biology.mcgill.ca/index.html) at [McGill University](https://www.mcgill.ca/). Our research focuses on the study of ecosystems as complex systems and on the problem of scale. We are interested in understanding:
 
 1. How large-scale patterns of biological diversity develop and are maintained from local interactions among individuals
-2. The maintenance of ecosystem functions from the movement of individuals and of (in)organic matter
+2. The maintenance of ecosystem functions by the limited movement of individuals and (in)organic matter
 3. The role of non-equilibrium dynamics and strong variability for population persistence, community structure, and ecosystem functions
 4. The maintenance of asynchrony across coupled ecological networks
 
