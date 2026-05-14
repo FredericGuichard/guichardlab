@@ -6,7 +6,7 @@ title: "Foundation Species"
 
 Foundation species — such as mussels and seagrasses — are ecosystem engineers that create and modify habitats, driving both community assembly and large-scale ecosystem functions. We study how the geometry, connectivity, and fragmentation of these habitats shape ecological and biogeochemical processes.
 
-![](images/musselbed.png){style="width:300px; object-fit:cover;"}
+![](images/musselbed.png){style="width:400px; object-fit:center;display: block; margin: 0 auto;"}
 
 Our work on **mussel beds** focuses on how habitat area, perimeter, and fragmentation affect nutrient fluxes (ammonium, oxygen) and community structure. We use experimental mussel transplants and metabolic chambers to quantify fluxes at the whole-ecosystem level.
 

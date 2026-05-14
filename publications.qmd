@@ -4,14 +4,15 @@ title: "Publications"
 
 ## Books
 
-::: {style="display: flex; align-items: top; gap: 20px;"}
-![](images/book.jpg){style="width: 100px; flex-shrink: 0;"}
+::: {style="display: flex; align-items: top; gap: 10px;"}  
+![](images/book.jpg){style="width: 125px; flex-shrink: 0; "}
+
 ::: {}  
+ - Guichard, F. and Marleau, J. (2021) *Meta-ecosystem Dynamics.* Lecture Notes on Mathematical Modelling in the Life Sciences. Springer. [Link](https://www.springer.com/gp/book/9783030834531)
 
- - Guichard, F. and Marleau, J. (2021) *Meta-ecosystem Dynamics.* Lecture Notes on Mathematical Modelling in the Life Sciences. Springer. [Link](https://www.springer.com/gp/book/9783030834531)  
 :::  
 :::  
-
+  
 ---
 ## Journal Articles
 
