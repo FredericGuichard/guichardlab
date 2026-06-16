@@ -6,18 +6,18 @@ title: "People"
 
 ### PhD Students
 
-- Shuaishuai Li
-- Alexandra McCallum
-- Jake Harvey
-- Xiaotian Hua
-- Luis De Gracia-Núñez
-- Tess Morelli
+- Shuaishuai Li (shuaishuai.li@mail.mcgill.ca)
+- Alexandra McCallum (alexandra.mccallum@mail.mcgill.ca)
+- Jake Harvey (jacob.harvey@mail.mcgill.ca)
+- Xiaotian Hua (xiaotian.hua@mail.mcgill.ca)
+- Luis De Gracia-Núñez (luis.degracianunez@mail.mcgill.ca)
+- Tess Morelli (tess.morelli@mail.mcgill.ca)
 
 ### MSc Students
 
-- Sarah Junk
-- Micah Pavlidis
-- Eleanor Grace Dunleavy
+- Sarah Junk (sarah.junk@mail.mcgill.ca)
+- Micah Pavlidis (micah.pavlidis@mail.mcgill.ca)
+- Eleanor Grace Dunleavy (eleanor.dunleavy@mail.mcgill.ca)
 
 ---
 
