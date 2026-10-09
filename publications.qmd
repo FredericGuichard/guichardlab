@@ -18,11 +18,11 @@ title: "Publications"
 
 ### In press / 2026
 
-- Lauzon, F., Carrier-Belleau, C., Boucher-Fontaine, J., Archambault, P., Cusson, M., Guichard, F. (2026) Dynamic response of communities and ecosystem functions to ecosystem engineering and multiple stressors in a marine mussel bed. *Oikos*, in press.
+- Lauzon, F., Carrier-Belleau, C., Boucher-Fontaine, J., Archambault, P., Cusson, M., Guichard, F. (2026) Dynamic response of communities and ecosystem functions to ecosystem engineering and multiple stressors in a marine mussel bed. *Oikos*, 2026(10): e11969. [DOI](https://doi.org/10.1002/oik.11969)
 
-- Guichard, F., Pichon, B., Gounand, I. (2026) The dual role of detritus as resource and habitat: integrating non-trophic processes to ecosystem dynamics. *Oikos*, in press. [Preprint](https://doi.org/10.22541/au.176296491.12324852/v1)
+- Guichard, F., Pichon, B., Gounand, I. (2026) The dual role of detritus as resource and habitat: integrating non-trophic processes to ecosystem dynamics. *Oikos*, 2026(8): e12193. [DOI](https://doi.org/10.1002/oik.12193)
 
-- Peller, T., Gounand, I., Fortin, M-J., Guichard, F. (2026) Spatially-nested topologies stabilize meta-ecosystems via cross-scale source-sink dynamics. *Ecology*, in press.
+- Peller, T., Gounand, I., Fortin, M-J., Guichard, F. (2026) Spatially-nested topologies stabilize meta-ecosystems via cross-scale source-sink dynamics. *Ecology*, 107(4): e70375. [DOI](https://doi.org/10.1002/ecy.70375)
 
 - Carrión, P.L., Beausoleil, M-O., Raeymaekers, J.A.M., De León, L.F., Chaves, J.A., Sharpe, D.M.T., Huber, S.K., Herrel, A., Gotanda, K.M., Koop, J.A.H., Knutie, S.A., Clayton, D.H., Podos, J., Barrett, R.D.H., Guichard, F., Hendry, A.P. (2026) Darwin's finches and climate change: insights from a resilient system. *Journal of Evolutionary Biology* 139(2): 281–293.
 
